@@ -2,21 +2,23 @@
 
 The implementation of the paper "**Enhancing Stability and Reliability in LLM-Driven Robotic Manipulation Through Human Skill Demonstration and Visual Tracking**".
 
-(1) Simulation Environment Configuration
+(1) Demonstration of actual tasks
+
+(2) Simulation Environment Configuration
 <p align="center">
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
   alt="image" width="450" height="auto">
 </p>
 
-(2) HUMAN PREFERENCES
+(3) HUMAN PREFERENCES
 <p align="center">
-<img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
+<img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/HUMAN PREFERENCES.png?raw=true" 
   alt="image" width="450" height="auto">
 </p>
 
-(3) Query-Expected-Object set for multi-objects picking-placing tasks
+(4) Query-Expected-Object set for multi-objects picking-placing tasks
 <p align="center">
-<img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
+<img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/multi-objects.png?raw=true" 
   alt="image" width="450" height="auto">
 </p>
 
