@@ -21,9 +21,9 @@ The implementation of the paper "**Enhancing Stability and Reliability in LLM-Dr
 </p>
 
 
--[] The prompt frameworks for SCoT
+-[ ] The prompt frameworks for SCoT
 
--[] The prompt frameworks for the Intent Analyzer and Behavior Self-Correction
+-[ ] The prompt frameworks for the Intent Analyzer and Behavior Self-Correction
 
 
 ## 0. Preparation
