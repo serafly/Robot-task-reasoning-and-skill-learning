@@ -8,23 +8,23 @@ The implementation of the paper "**Enhancing Stability and Reliability in LLM-Dr
   alt="image" width="450" height="auto">
 </p>
 
-(2) The prompt frameworks for SCoT
-todo_1
-
-(3) The prompt frameworks for the Intent Analyzer and Behavior Self-Correction
-todo_2
-
-(4) HUMAN PREFERENCES
+(2) HUMAN PREFERENCES
 <p align="center">
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
   alt="image" width="450" height="auto">
 </p>
 
-(5) Query-Expected-Object set for multi-objects picking-placing tasks
+(3) Query-Expected-Object set for multi-objects picking-placing tasks
 <p align="center">
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
   alt="image" width="450" height="auto">
 </p>
+
+
+-[] The prompt frameworks for SCoT
+
+-[] The prompt frameworks for the Intent Analyzer and Behavior Self-Correction
+
 
 ## 0. Preparation
 
