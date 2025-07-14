@@ -43,12 +43,12 @@ git clone https://github.com/serafly/Robot-task-reasoning-and-skill-learning.git
 #### Download Coppeliasim scene
 
 1. Download [this file](https://drive.google.com/file/d/1FxXkRcFUu9Og7UsbsiMjtfF2nxXHiBzY/view?usp=drive_link) (`PickPlaceScene.ttt`) from Google drive.
-2. Move this file to `/home/your-account/Robotic_Pick_and_Place_Operations_with_Prompts/` directory.
+2. Move this file to `/home/your-account/Robot-task-reasoning-and-skill-learning/` directory.
 
 #### Download the vision models
 
 1. Download [this file](https://drive.google.com/file/d/1HPY5hxVC7AE3T9ZJIcK-gisoQOLEkyFf/view?usp=drive_link) (`used_owlvit_sam.tar.xz`) from Google drive.
-2. Extract the `used_owlvit_sam.tar.xz` file to `/home/your-account/Robotic_Pick_and_Place_Operations_with_Prompts/` directory.
+2. Extract the `used_owlvit_sam.tar.xz` file to `/home/your-account/Robot-task-reasoning-and-skill-learning/` directory.
 
 ## 2. Configuration
 
@@ -56,7 +56,7 @@ git clone https://github.com/serafly/Robot-task-reasoning-and-skill-learning.git
 
 ```
 conda activate pickplace
-cd Robotic_Pick_and_Place_Operations_with_Prompts
+cd Robot-task-reasoning-and-skill-learning
 pip install -r requirements.txt
 ```
 
@@ -69,7 +69,7 @@ cd CoppeliaSim_Player_V4_1_0_Ubuntu20_04/
 ./coppeliasim.sh
 ```
 
-`File` -- `Open scene...` -- `/home/your-account/Robotic_Pick_and_Place_Operations_with_Prompts/` -- select the `PickPlaceScene.ttt`.
+`File` -- `Open scene...` -- `/home/your-account/Robot-task-reasoning-and-skill-learning/` -- select the `PickPlaceScene.ttt`.
 
 #### Config parameters
 
