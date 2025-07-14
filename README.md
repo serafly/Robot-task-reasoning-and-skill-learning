@@ -1,7 +1,24 @@
 # Robotic_Pick_and_Place_Operations_with_Prompts
 
 The implementation of the paper "**Enhancing Stability and Reliability in LLM-Driven Robotic Manipulation Through Human Skill Demonstration and Visual Tracking**".
+(1) Simulation Environment Configuration
+<p align="center">
+<img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
+  alt="image" width="450" height="auto">
+</p>
+(2) The prompt frameworks for the Intent Analyzer and Behavior Self-Correction
+<p align="center">
+<img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
+  alt="image" width="450" height="auto">
+</p>
 
+(3) HUMAN PREFERENCES
+<p align="center">
+<img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
+  alt="image" width="450" height="auto">
+</p>
+
+(4) Query-Expected-Object set for multi-objects picking-placing tasks
 <p align="center">
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
   alt="image" width="450" height="auto">
