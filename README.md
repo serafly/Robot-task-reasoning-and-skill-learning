@@ -1,4 +1,4 @@
-# Robotic_Pick_and_Place_Operations_with_Prompts
+# Robot Task Reasoning and Skill Learning
 
 The implementation of the paper "**Enhancing Stability and Reliability in LLM-Driven Robotic Manipulation Through Human Skill Demonstration and Visual Tracking**".
 (1) Simulation Environment Configuration
