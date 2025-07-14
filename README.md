@@ -4,7 +4,10 @@ The implementation of the paper "**Enhancing Stability and Reliability in LLM-Dr
 
 (1) Demonstration of actual tasks
 
-[![视频截图](https://img.youtube.com/vi/Z10Rh7b4OtM/hqdefault.jpg )](https://youtu.be/Z10Rh7b4OtM )
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/Z10Rh7b4OtM " 
+  frameborder="0" allowfullscreen>
+</iframe>
 
 (2) Simulation Environment Configuration
 <p align="center">
