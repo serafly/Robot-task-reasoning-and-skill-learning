@@ -6,9 +6,9 @@ The implementation of the paper "**Enhancing Stability and Reliability in LLM-Dr
 
 Detailed HD video [here](https://example.com/video.mp4 )
 
-<p align="center">
-[![video](https://img.youtube.com/vi/Z10Rh7b4OtM/hqdefault.jpg )](https://youtu.be/Z10Rh7b4OtM )
-</p>
+<div style="text-align: center;">
+  [![video](https://img.youtube.com/vi/Z10Rh7b4OtM/hqdefault.jpg )](https://youtu.be/Z10Rh7b4OtM )
+</div>
 
 (2) Simulation Environment Configuration
 <p align="center">
