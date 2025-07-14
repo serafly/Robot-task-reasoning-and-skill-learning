@@ -1,6 +1,6 @@
 # Robotic_Pick_and_Place_Operations_with_Prompts
 
-The implementation of the paper "**Enhancing home service robot system: Leveraging foundation models to pick-place objects guided by human natural language queries**".
+The implementation of the paper "**Enhancing Stability and Reliability in LLM-Driven Robotic Manipulation Through Human Skill Demonstration and Visual Tracking**".
 
 <p align="center">
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
