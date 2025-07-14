@@ -6,19 +6,26 @@ The implementation of the paper "**Enhancing Stability and Reliability in LLM-Dr
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
   alt="image" width="450" height="auto">
 </p>
-(2) The prompt frameworks for the Intent Analyzer and Behavior Self-Correction
+
+(2) The prompt frameworks for SCoT
 <p align="center">
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
   alt="image" width="450" height="auto">
 </p>
 
-(3) HUMAN PREFERENCES
+(3) The prompt frameworks for the Intent Analyzer and Behavior Self-Correction
 <p align="center">
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
   alt="image" width="450" height="auto">
 </p>
 
-(4) Query-Expected-Object set for multi-objects picking-placing tasks
+(4) HUMAN PREFERENCES
+<p align="center">
+<img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
+  alt="image" width="450" height="auto">
+</p>
+
+(5) Query-Expected-Object set for multi-objects picking-placing tasks
 <p align="center">
 <img src="https://github.com/serafly/Robot-task-reasoning-and-skill-learning/blob/main/assets/simluation_00.png?raw=true" 
   alt="image" width="450" height="auto">
