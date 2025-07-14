@@ -1,6 +1,5 @@
-# Robot Task Reasoning and Skill Learning
-
-The implementation of the paper "**Enhancing Stability and Reliability in LLM-Driven Robotic Manipulation Through Human Skill Demonstration and Visual Tracking**".
+# Robot Task Reasoning and Skill Learning.
+The implementation of the paper "**Enhancing Stability and Reliability in LLM-Driven Robotic Manipulation Through Human Skill Demonstration and Visual Tracking**". We give the source code for the SCoT and BS parts used in the paper.
 
 (1) Demonstration of actual tasks
 
